@@ -54,7 +54,13 @@ yarn start
 ```bash
 npm run ios
 # or
-yarn ios
+Calling `pod install` directly is deprecated in React Native
+because we are moving away from Cocoapods toward alternative
+solutions to build the project.
+* If you are using Expo, please run:
+`npx expo run:ios`
+* If you are using the Community CLI, please run:
+`yarn ios`
 ```
 
 5. Run on Android:
