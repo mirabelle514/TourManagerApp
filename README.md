@@ -1,23 +1,23 @@
 # Tour Manager App
 
-A comprehensive mobile application for managing tour logistics, schedules, finances, and communication for music tours and events. Built with React Native and Expo, featuring an Apple-style design system for intuitive user experience.
+A comprehensive mobile application for managing tour logistics, schedules, finances, and communication for music tours and events. Built with React Native and Expo, featuring an simple clear design system for intuitive user experience.
 
-## 🎯 Features
+## Features
 
 ### Core Functionality
-- **📅 Day Sheet**: Complete daily tour management with venue information, load-in times, schedules, and contact details
-- **🗓️ Schedule**: Interactive calendar with upcoming shows, tour timeline, and event management
-- **💰 Money**: Financial tracking with profit/loss analysis, expense management, and settlement tracking
-- **👥 Crew**: Team management, communication tools, and role-based access control
-- **⚙️ More**: User profiles, app settings, emergency contacts, and road assistance
+- **Day Sheet**: Complete daily tour management with venue information, load-in times, schedules, and contact details
+- **Schedule**: Interactive calendar with upcoming shows, tour timeline, and event management
+- **Money**: Financial tracking with profit/loss analysis, expense management, and settlement tracking
+- **Crew**: Team management, communication tools, and role-based access control
+- **More**: User profiles, app settings, emergency contacts, and road assistance
 
 ### Advanced Features
-- **🎨 Apple-Style Design**: Native iOS design patterns with proper typography, colors, and spacing
-- **📱 Responsive Interface**: Optimized for mobile devices with touch-friendly interactions
-- **🔄 Real-time Updates**: Live data synchronization for schedule changes and communications
-- **🎭 Role-Based Access**: Different permission levels for band members, crew, and management
-- **📊 Financial Analytics**: Comprehensive profit/loss tracking with visual indicators
-- **🚗 Road Assistant**: GPS integration and travel coordination tools
+- **Simple Design**: Native iOS design patterns with proper typography, colors, and spacing
+- **Responsive Interface**: Optimized for mobile devices with touch-friendly interactions
+- **Real-time Updates**: Live data synchronization for schedule changes and communications
+- **Role-Based Access**: Different permission levels for band members, crew, and management
+- **Financial Analytics**: Comprehensive profit/loss tracking with visual indicators
+- **Road Assistant**: GPS integration and travel coordination tools
 
 ## 🛠️ Tech Stack
 
@@ -29,7 +29,7 @@ A comprehensive mobile application for managing tour logistics, schedules, finan
 - **UI Components**: React Native Paper
 - **Development**: TypeScript, ESLint, Prettier
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -90,7 +90,7 @@ npx tsc --noEmit
 npx eslint . --ext .ts,.tsx
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 TourManagerApp/
@@ -110,7 +110,7 @@ TourManagerApp/
 └── docs/              # Documentation and guides
 ```
 
-## 🎨 Design System
+## Design System
 
 The app follows Apple's Human Interface Guidelines with:
 
@@ -156,7 +156,7 @@ The app follows Apple's Human Interface Guidelines with:
 - Road assistance integration
 - Tour configuration options
 
-## 🔐 Security & Permissions
+## Security & Permissions
 
 - Role-based access control (RBAC)
 - Secure data encryption
@@ -164,7 +164,7 @@ The app follows Apple's Human Interface Guidelines with:
 - Audit trails for financial transactions
 - Privacy controls for personal information
 
-## 🌐 API Integration Points
+## API Integration Points
 
 The app is designed to integrate with:
 - Calendar services (Google Calendar, Apple Calendar)
@@ -174,7 +174,7 @@ The app is designed to integrate with:
 - Mapping services (Google Maps, Apple Maps)
 - Weather services for outdoor shows
 
-## 📈 Performance Considerations
+## Performance Considerations
 
 - Optimized for offline functionality
 - Efficient data caching and synchronization
@@ -182,7 +182,7 @@ The app is designed to integrate with:
 - Battery-efficient location services
 - Minimal data usage for touring environments
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -210,7 +210,7 @@ git push origin feature/amazing-feature
 - Update documentation for API changes
 - Ensure accessibility compliance
 
-## 🐛 Known Issues & Roadmap
+## Known Issues & Roadmap
 
 ### Current Limitations
 - Calendar integration pending
@@ -225,7 +225,7 @@ git push origin feature/amazing-feature
 - [ ] Multi-language support
 - [ ] Dark mode implementation
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -237,7 +237,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For bug reports and feature requests, please use the [GitHub Issues](https://github.com/mirabelle514/TourManagerApp/issues) page.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Apple Human Interface Guidelines for design inspiration
 - React Native and Expo teams for excellent frameworks
